@@ -1,0 +1,56 @@
+# Project-specific excludes
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Binaries
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.war
+*.rar
+*.nar
+*.ear
+*.tar
+*.tar.gz
+*.zip
+*.sar
+
+# Maven
+target/
+
+# IntelliJ project files
+*.iml
+*.iws
+*.ipr
+.idea/
+
+# eclipse project file
+.settings/
+.classpath
+.project
+
+# NetBeans specific
+nbproject/
+nb-configuration.xml
+
+# OS
+.DS_Store
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Misc
+*.swp
+release.properties
+pom.xml.releaseBackup
+pom.xml.tag
+hs_err_pid*
